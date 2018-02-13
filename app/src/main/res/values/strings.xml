@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="rate_count">(%1$d)</string>
+</resources>
